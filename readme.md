@@ -12,7 +12,9 @@ Export Functionality: Download comprehensive analysis reports
 Fallback Analysis: Works even without OpenAI API key using advanced semantic matching
 
 🚀 Demo
-Show Image
+![App Screenshot](assets/Demo1.png)
+![App Screenshot](assets/Demo2.png)
+
 Upload your resume, paste a job description, and get instant AI-powered insights!
 
 🛠️ Technologies Used
