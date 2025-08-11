@@ -2,6 +2,8 @@
 transformers==4.31.0
 sentence-transformers==2.2.2
 openai
+huggingface_hub==0.16.4
+
 
 # PyTorch backend only (no TF)
 torch==2.1.2  # Or use latest version compatible with your system
